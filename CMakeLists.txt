@@ -34,7 +34,7 @@ endif()
 
 set(META_PROJECT_NAME        "cryptopp-cmake")
 set(META_PROJECT_DESCRIPTION "Free C++ class library of cryptographic schemes")
-set(META_GITHUB_REPO         "https://github.com/weidai11/cryptopp")
+set(META_GITHUB_REPO         "https://github.com/ucoruh/cryptopp")
 set(META_VERSION_MAJOR       "8")
 set(META_VERSION_MINOR       "8")
 set(META_VERSION_PATCH       "0")
